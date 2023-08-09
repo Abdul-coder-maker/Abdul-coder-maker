@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abdulrahman Nasser
 - 👀 I’m interested in learning to code
-- 🌱 I’m currently learning JavaScript and React.
+- 🌱 I’m currently learning JavaScript and Python.
 - 💞️ I’m looking to collaborate on Web Development projects (front-end) 
 - 📫 You can reach me on [Twitter](https://twitter.com/AbdulrahmanDev)
 
