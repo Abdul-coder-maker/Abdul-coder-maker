@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning to code
 - 🌱 I’m currently learning JavaScript and Python.
 - 💞️ I’m looking to collaborate on Web Development projects (front-end) 
-- 📫 You can reach me on [Twitter](https://twitter.com/AbdulrahmanDev)
+<!---- 📫 You can reach me on [Twitter](https://twitter.com/AbdulrahmanDev) --->
 
 <!---
 Abdul-coder-maker/Abdul-coder-maker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
